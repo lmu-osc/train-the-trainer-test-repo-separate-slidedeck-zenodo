@@ -11,6 +11,7 @@ format:
     footer: LMU Open Science Center
     slide-number: true
     logo: slide-formatting-assets/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    output-file: slides.html
   pdf:
     geometry: 
       - top=30mm
