@@ -7,17 +7,20 @@ format:
   html: 
     toc: true
   revealjs:
-    css: slide-formatting-assets/slides-custom.css # looks for css file in root
+    css: slide-formatting-assets/slides-custom.css # change path
     footer: LMU Open Science Center
     slide-number: true
-    logo: slide-formatting-assets/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    logo: slide-formatting-assets/OSC_Logo.jpg  # change path
     output-file: slides.html
   pdf:
     geometry: 
       - top=30mm
       - left=30mm
   pptx: 
-    css: slide-formatting-assets/slides-custom.css # looks for css file in root
+    css: slide-formatting-assets/slides-custom.css # change path
+
+bibliography: ../../assets/references.bib # change path
+csl: ../../assets/apa.csl # change path
 
 execute:
   echo: true
