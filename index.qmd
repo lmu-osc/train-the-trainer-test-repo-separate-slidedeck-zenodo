@@ -4,11 +4,14 @@ author: "Sarah von Grebmer"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
+  html: 
+    toc: true
   revealjs:
     css: slide-formatting-assets/slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
     logo: slide-formatting-assets/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    output-file: slides.html
   pdf:
     geometry: 
       - top=30mm
