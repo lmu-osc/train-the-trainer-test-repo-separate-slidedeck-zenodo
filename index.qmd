@@ -19,8 +19,8 @@ format:
   pptx: 
     css: slide-formatting-assets/slides-custom.css # change path
 
-bibliography: ../../assets/references.bib # change path
-csl: ../../assets/apa.csl # change path
+bibliography: slide-formatting-assets/references.bib # change path
+csl: slide-formatting-assets/apa.csl # change path
 
 execute:
   echo: true
