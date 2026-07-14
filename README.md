@@ -1,3 +1,5 @@
+**This was a testing repo to show that we can create a repo for a Quarto project that has website, RevealJS, Pptx, and PDF output all in one. This test repo can be deleted after we get going with the actual tutorial slide decks that are structured this way.**
+
 # Tutorial Template
 
 This repository is a starter template for Quarto-based OSC tutorials.
