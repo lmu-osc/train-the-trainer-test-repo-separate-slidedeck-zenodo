@@ -12,7 +12,7 @@ format:
     footer: LMU Open Science Center
     slide-number: true
     logo: OSC_Logo.jpg
-    output-file: slides
+    output-file: slides # this must be included to avoid naming conflict with index.html
   pdf:
     toc: true
     geometry: 
@@ -21,7 +21,7 @@ format:
   pptx: 
     slide-level: 2
     reference-doc: template_lmu.pptx
-  ipynb: default
+  # ipynb: default
 
 bibliography: references.bib
 csl: apa.csl
