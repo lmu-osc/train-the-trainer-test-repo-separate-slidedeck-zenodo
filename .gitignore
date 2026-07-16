@@ -62,5 +62,17 @@ _site/
 
 **/*.quarto_ipynb
 
+# Quarto rendered output files at project root
+/index.html
+/index.tex
+/index.pdf
+/index.pptx
+/slides.html
+/robots.txt
+/sitemap.xml
+/search.json
+/.nojekyll
+/LICENSE-CODE.html
+/LICENSE.html
 
 .posit/assistant
