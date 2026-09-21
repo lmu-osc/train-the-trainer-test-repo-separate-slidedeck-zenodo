@@ -4,7 +4,7 @@ author: "Tejaswini Sharma"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
-  html: 
+  osc-brand-html: 
     toc: true
   revealjs:
     slide-level: 2
@@ -31,6 +31,16 @@ csl: apa.csl
 #   eval: true
 #   engine: knitr
 ---
+
+## Testing Slide {background-color="blue"}
+
+::: {.callout-tip}
+
+This is a callout box test
+
+:::
+
+Test citation [@jacksonDailyGrind1990](#references)
 
 ## Licence
 
