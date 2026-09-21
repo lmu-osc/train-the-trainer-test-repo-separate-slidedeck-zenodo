@@ -18,14 +18,21 @@
     "href": "index.html",
     "title": "Citing made simple: A practical guide for Zotero",
     "section": "",
-    "text": "This work was originally created by Pat Callahan and Dejana Damjanovic under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International License and a CC0 1.0 Creative Commons Universal licence for code snippets. It was subsequently adapted and revised by Sarah von Grebmer zu Wolfsthurn. This current work by Tejaswini Sharma and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. Code snippets are dedicated to the public domain and licenced under a CC0 1.0 Creative Commons Universal Licence. You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.\n\n\nPresenter Notes: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.\n\n\n\n\nCreator: Sharma, Tejaswini (Orcid-ID: 00009-0000-0305-9751)\nReviewer: Von Grebmer zu Wolfsthurn, Sarah (Ordcid-ID: 0000-0002-6413-3895)"
+    "text": "Tip\n\n\n\nThis is a callout box test\n\n\nTest citation Jackson (1990)"
+  },
+  {
+    "objectID": "index.html#testing-slide",
+    "href": "index.html#testing-slide",
+    "title": "Citing made simple: A practical guide for Zotero",
+    "section": "",
+    "text": "Tip\n\n\n\nThis is a callout box test\n\n\nTest citation Jackson (1990)"
   },
   {
     "objectID": "index.html#licence",
     "href": "index.html#licence",
     "title": "Citing made simple: A practical guide for Zotero",
-    "section": "",
-    "text": "This work was originally created by Pat Callahan and Dejana Damjanovic under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International License and a CC0 1.0 Creative Commons Universal licence for code snippets. It was subsequently adapted and revised by Sarah von Grebmer zu Wolfsthurn. This current work by Tejaswini Sharma and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. Code snippets are dedicated to the public domain and licenced under a CC0 1.0 Creative Commons Universal Licence. You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.\n\n\nPresenter Notes: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.\n\n\n\n\nCreator: Sharma, Tejaswini (Orcid-ID: 00009-0000-0305-9751)\nReviewer: Von Grebmer zu Wolfsthurn, Sarah (Ordcid-ID: 0000-0002-6413-3895)"
+    "section": "Licence",
+    "text": "Licence\n\n\n\n\n\nThis work was originally created by Pat Callahan and Dejana Damjanovic under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International License and a CC0 1.0 Creative Commons Universal licence for code snippets. It was subsequently adapted and revised by Sarah von Grebmer zu Wolfsthurn. This current work by Tejaswini Sharma and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. Code snippets are dedicated to the public domain and licenced under a CC0 1.0 Creative Commons Universal Licence. You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.\n\n\nPresenter Notes: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.\n\n\n\nContribution statement\nCreator: Sharma, Tejaswini (Orcid-ID: 00009-0000-0305-9751)\nReviewer: Von Grebmer zu Wolfsthurn, Sarah (Ordcid-ID: 0000-0002-6413-3895)"
   },
   {
     "objectID": "index.html#prerequisites",
@@ -228,7 +235,7 @@
     "href": "index.html#references",
     "title": "Citing made simple: A practical guide for Zotero",
     "section": "References",
-    "text": "References"
+    "text": "References\n\n\nJackson, P. (1990). The Daily Grind. In Life in Classrooms (2nd ed., pp. 34–35). Teachers College Press."
   },
   {
     "objectID": "index.html#thanks",
@@ -250,6 +257,13 @@
     "title": "Citing made simple: A practical guide for Zotero",
     "section": "CREDiT Contribution Statement - TO DO",
     "text": "CREDiT Contribution Statement - TO DO\nPossible roles using the CRediT contribition system or the Zenodo Contribution System:\nName main content creator: Conceptualization, Software, Writing - Original Draft, Visualization. Sara Lil Middleton: Writing - Review & Editing, Supervision. Sarah von Grebmer zu Wolfsthurn: Conceptualisation, Writing - Review & Editing, Supervision, Project Administration, Validation."
+  },
+  {
+    "objectID": "slides.html#testing-slide",
+    "href": "slides.html#testing-slide",
+    "title": "Citing made simple: A practical guide for Zotero",
+    "section": "Testing Slide",
+    "text": "Testing Slide\n\n\n\n\n\n\nTip\n\n\nThis is a callout box test\n\n\n\nTest citation Jackson (1990)"
   },
   {
     "objectID": "slides.html#licence",
@@ -459,7 +473,7 @@
     "href": "slides.html#references",
     "title": "Citing made simple: A practical guide for Zotero",
     "section": "References",
-    "text": "References"
+    "text": "References\n\n\nJackson, P. (1990). The Daily Grind. In Life in Classrooms (2nd ed., pp. 34–35). Teachers College Press."
   },
   {
     "objectID": "slides.html#thanks",
