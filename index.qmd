@@ -42,6 +42,11 @@ This is a callout box test
 
 Test citation [@jacksonDailyGrind1990](#references)
 
+# Section Header?
+
+content in section header?
+
+
 ## Licence
 
 ::: {.content-visible when-format="html"}
