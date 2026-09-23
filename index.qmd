@@ -1,8 +1,8 @@
 ---
 title: "Citing made simple: A practical guide for Zotero"
 author: "Tejaswini Sharma"
-date: "today"
-date-format: "DD/MM/YYYY"
+# date: "today"
+# date-format: "DD/MM/YYYY"
 format: 
   osc-brand-html: 
     toc: true
@@ -18,9 +18,17 @@ format:
     geometry: 
       - top=30mm
       - left=30mm
-  pptx: 
+  pptx-testing: 
     slide-level: 2
     reference-doc: template_lmu.pptx
+    output-file: lmu-branded-test.pptx
+    date: 03-03-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
+    date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
+    # footer: hello there footer # footer does nothing
+  pptx:
+    slide-level: 2
+    footer: hello there footer
+    date: 03-03-2020
   # ipynb: default
 
 bibliography: references.bib
@@ -47,7 +55,7 @@ Test citation [@jacksonDailyGrind1990](#references)
 content in section header?
 
 
-## Licence
+## Licence {layout="License"}
 
 ::: {.content-visible when-format="html"}
 <br>
