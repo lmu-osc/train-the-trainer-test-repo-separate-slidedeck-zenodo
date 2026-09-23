@@ -25,6 +25,17 @@ format:
     date: 03-03-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
     date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
     # footer: hello there footer # footer does nothing
+    testing: "Trying a custom field"
+    incremental: true
+  pptx-working:
+    slide-level: 2
+    reference-doc: working-template.pptx
+    output-file: working-output.pptx
+    date: 03-03-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
+    date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
+    # footer: hello there footer # footer does nothing
+    testing: "Trying a custom field"
+    incremental: true
   pptx:
     slide-level: 2
     footer: hello there footer
@@ -53,6 +64,17 @@ Test citation [@jacksonDailyGrind1990](#references)
 # Section Header?
 
 content in section header?
+
+## a section
+
+* some text
+* another bullet point
+* **bold**
+* *italics*
+
+---
+
+### this is a level three headers
 
 
 ## Licence {layout="License"}
