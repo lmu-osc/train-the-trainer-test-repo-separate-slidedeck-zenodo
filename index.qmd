@@ -51,33 +51,9 @@ csl: apa.csl
 #   engine: knitr
 ---
 
-## Testing Slide {background-color="blue"}
-
-::: {.callout-tip}
-
-This is a callout box test
-
-:::
-
-Test citation [@jacksonDailyGrind1990](#references)
-
-# Section Header?
-
-content in section header?
-
-## a section
-
-* some text
-* another bullet point
-* **bold**
-* *italics*
-
----
-
-### this is a level three headers
 
 
-## Licence {layout="License"}
+## Licence
 
 ::: {.content-visible when-format="html"}
 <br>
