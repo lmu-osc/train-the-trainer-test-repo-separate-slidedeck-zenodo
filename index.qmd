@@ -22,7 +22,7 @@ format:
     slide-level: 2
     reference-doc: template_lmu.pptx
     output-file: lmu-branded-test.pptx
-    date: 03-03-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
+    date: 30-09-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
     date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
     # footer: hello there footer # footer does nothing
     testing: "Trying a custom field"
@@ -31,7 +31,7 @@ format:
     slide-level: 2
     reference-doc: working-template.pptx
     output-file: working-output.pptx
-    date: 03-03-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
+    date: 30-09-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
     date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
     # footer: hello there footer # footer does nothing
     testing: "Trying a custom field"
@@ -39,7 +39,7 @@ format:
   pptx:
     slide-level: 2
     footer: hello there footer
-    date: 03-03-2020
+    date: 30-09-2020
   # ipynb: default
 
 bibliography: references.bib
